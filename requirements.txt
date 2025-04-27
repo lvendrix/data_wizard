@@ -4,3 +4,6 @@ spacy
 joblib
 fastapi
 uvicorn
+xgboost
+imblearn
+lightgbm
